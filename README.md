@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I’m a passionate software engineer and data scientist with a keen interest in solving real-world problems through innovative technology solutions. Here, you'll find a showcase of my projects and contributions. Let's build something amazing together!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RaedJah&color=brightgreen)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/raedjah](https://www.linkedin.com/in/raed-jah-27785020b/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/raed-jah-27785020b/)
 [![Email](https://img.shields.io/badge/Email-Contact-yellow)](mailto:raedjah18@gmail.com)
 
 ## About Me
