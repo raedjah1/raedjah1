@@ -31,7 +31,7 @@ An Android app designed for managing, creating, and advertising campus-wide acti
 - **Technologies:** ![Kotlin](https://img.shields.io/badge/-Kotlin-blueviolet) ![Android Studio](https://img.shields.io/badge/-Android%20Studio-brightgreen) ![Firebase](https://img.shields.io/badge/-Firebase-orange)
 - **Highlights:** User-friendly and interactive interface for seamless event creation and management.
 
-### [POINT OF VIEW - Event Management App](https://github.com/your-username/flutter-pharma-app)
+### [POINT OF VIEW - SOCIAL MEDIA](https://github.com/your-username/flutter-pharma-app)
 An elegant Android app for managing and advertising campus-wide activities.
 - **Technologies:** ![Flutter](https://img.shields.io/badge/-Flutter-blue) ![Dart](https://img.shields.io/badge/-Dart-0175C2) ![Python](https://img.shields.io/badge/-Python-yellow) ![Django](https://img.shields.io/badge/-Django-green) ![AWS](https://img.shields.io/badge/-AWS-orange) ![Heroku](https://img.shields.io/badge/-Heroku-purple)
 - **Highlights:** Intuitive and visually appealing design, simplifying event management.
