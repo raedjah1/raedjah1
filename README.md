@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I’m a passionate software engineer and data scie
 
 ## 🚀 Projects
 
-### [NUCLEUS - Flutter Mobile App](https://github.com/your-username/flutter-pharma-app)
+### [NUCLEUS - Flutter Mobile App](https://github.com/raedjah1/Nucleus)
 A comprehensive mobile app designed to organize staff data and improve employee tracking.
 - **Technologies:** ![Flutter](https://img.shields.io/badge/-Flutter-blue) ![Dart](https://img.shields.io/badge/-Dart-0175C2) ![Python](https://img.shields.io/badge/-Python-yellow) ![Django](https://img.shields.io/badge/-Django-green) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1)
 - **Highlights:** Significantly enhanced employee management efficiency and reduced costs associated with employee tracking and paper-based communication.
