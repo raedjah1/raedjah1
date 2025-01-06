@@ -81,7 +81,7 @@ POV is a first-person educational social media habitat that enables users to wat
 ---
 
 ## 🌐 Get in Touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/raed-jah-27785020b/)
 [![Email](https://img.shields.io/badge/Email-Contact-yellow)](mailto:raedjah18@gmail.com)
 
 ---
