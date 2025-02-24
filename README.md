@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I’m a passionate software engineer and data scie
 - 👀 **Interests:** Software Engineering, Data Science, and innovative tech solutions.
 - 🌱 **Current Learning:** Pursuing a Computer Science major at Colgate University.
 - 💞️ **Collaboration:** Open to collaborating on diverse software development projects.
-- 📫 **Contact:** Reach out via email at [raedjah18@gmail.com](mailto:raedjah18@gmail.com).
+- 📫 **Contact:** Reach out via email at [raedjah18@gmail.com](mailto:raedjah18@gmail.com) or (mailto:rjah@colgate.edu) .
 
 ---
 
