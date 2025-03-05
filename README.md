@@ -16,6 +16,8 @@ Welcome to my GitHub profile! I’m a passionate software engineer and data scie
 
 ## 🚀 Projects
 
+[https](https://pov-reality.com/)
+
 ### [Gusto - Culinary Experience Platform](https://github.com/raedjah1/Gusto.git)
 A platform designed to connect private chefs with consumers seeking personalized dining experiences. Gusto allows chefs to showcase their menus and specialties, while consumers can browse, book, and review chefs for private events, dinners, or cooking classes.
 - **Group Members:** Jah, Victor, and Chris
@@ -28,27 +30,6 @@ A platform designed to connect private chefs with consumers seeking personalized
 - Booking Management: Accept/decline requests, manage schedule
 - Messaging: Direct communication with clients
 - Notifications: Alerts for bookings, messages, and reviews
-
-**For Consumers:**
-- Chef Browsing: Filter by cuisine, location, price, and availability
-- Profile Viewing: View chef details, menus, and reviews
-- Booking Requests: Specify event details and request bookings
-- Secure Payments: Simulated payment options
-- Reviews: Leave feedback on dining experiences
-- Favorites: Save preferred chefs for future bookings
-
-#### App Layout and Structure
-- **Models:** User, ChefProfile, Booking, Review, MenuItem, Message
-- **Views:** Chef profile, booking form, review form, messaging system, and user management views
-- **Controllers:** Users, ChefProfiles, Bookings, Reviews, and Messages
-
-#### User Stories (Flow)
-1. Chef Profile Creation - Chefs can showcase their culinary expertise.
-2. Consumer Browsing - Consumers can find the perfect chef for their event.
-3. Booking Requests - Consumers request bookings with specific chefs.
-4. Booking Management - Chefs manage and respond to booking requests.
-5. Reviews and Ratings - Consumers leave reviews to guide others.
-6. Messaging System - Communication between chefs and consumers.
 
 With Gusto, we aim to redefine personalized dining experiences by connecting talented chefs with food enthusiasts. Let's make every meal a memorable experience!
 
