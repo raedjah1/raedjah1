@@ -16,8 +16,14 @@ Welcome to my GitHub profile! I’m a passionate software engineer and data scie
 
 ## 🚀 Projects
 
-[https](https://pov-reality.com/)
-
+### POV Reality
+- 
+- **Website:** [pov-reality.com](https://pov-reality.com)
+- 
+- ## Overview
+- 
+- POV Reality is an immersive virtual reality platform that transforms social interactions through cutting-edge VR technology. Our platform enables users to connect, explore, and create in ways never before possible, bridging the gap between physical distance and meaningful social experiences.
+  
 ### [Gusto - Culinary Experience Platform](https://github.com/raedjah1/Gusto.git)
 A platform designed to connect private chefs with consumers seeking personalized dining experiences. Gusto allows chefs to showcase their menus and specialties, while consumers can browse, book, and review chefs for private events, dinners, or cooking classes.
 - **Group Members:** Jah, Victor, and Chris
