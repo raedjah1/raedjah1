@@ -19,6 +19,7 @@ Welcome to my GitHub profile! I’m a passionate software engineer and data scie
 ### POV Reality
 
 - **Website:** [pov-reality.com](https://pov-reality.com)
+- App demo(Test Flight): https://testflight.apple.com/join/5rJ1s5Uq
   
  ## Overview
 
