@@ -40,6 +40,30 @@ A platform designed to connect private chefs with consumers seeking personalized
 
 With Gusto, we aim to redefine personalized dining experiences by connecting talented chefs with food enthusiasts. Let's make every meal a memorable experience!
 
+🎶 BOPMaps – Musical Geocaching App
+BOPMaps is a music-meets-location app that lets users drop and discover songs pinned to real-world places. It transforms everyday walks into audio adventures — each location becomes a memory, a vibe, a story told through music.
+
+Built With:
+
+Status: Actively developing final MVP
+
+Frontend: Flutter-based interactive map UI with pin drop, collection, and friend features
+
+Backend: Django REST API handling user auth, pins, music metadata, and geolocation logic
+
+🔥 Core Features
+🎧 Drop music pins at physical locations
+
+🌐 Discover songs based on where you are
+
+🧠 Pins include metadata like rarity, genre, and vibes
+
+🤝 Social features: friend system, collection history
+
+🌈 Gamified layers: proximity auras, collectible skins
+
+🎯 Purpose
+This is my final deliverable for the Human-Computer Interaction course at Colgate University. It showcases thoughtful interaction design, rapid prototyping, and meaningful user experience — merging sound, space, and memory.
 ### [NUCLEUS - Flutter Mobile App](https://github.com/raedjah1/Nucleus)
 A comprehensive mobile app designed to organize staff data and improve employee tracking.
 - **Technologies:** ![Flutter](https://img.shields.io/badge/-Flutter-blue) ![Dart](https://img.shields.io/badge/-Dart-0175C2) ![Python](https://img.shields.io/badge/-Python-yellow) ![Django](https://img.shields.io/badge/-Django-green) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1)
