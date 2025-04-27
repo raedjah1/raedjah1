@@ -40,12 +40,11 @@ A platform designed to connect private chefs with consumers seeking personalized
 
 With Gusto, we aim to redefine personalized dining experiences by connecting talented chefs with food enthusiasts. Let's make every meal a memorable experience!
 
-### 🎶 BOPMaps – Musical Geocaching App
+### 🎶 [BOPMaps – Musical Geocaching App]
 BOPMaps is a music-meets-location app that lets users drop and discover songs pinned to real-world places. It transforms everyday walks into audio adventures — each location becomes a memory, a vibe, a story told through music.
 
 Built With:
 
-Status: Actively developing final MVP
 
 Frontend: Flutter-based interactive map UI with pin drop, collection, and friend features
 
