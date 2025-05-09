@@ -34,6 +34,7 @@ POV Reality is an immersive virtual reality platform that transforms social inte
 </p>
 
 
+
 BOPMaps is a music-meets-location app that lets users drop and discover songs pinned to real-world places. It transforms everyday walks into audio adventures — each location becomes a memory, a vibe, a story told through music.
 
 **Built With:**
@@ -48,6 +49,17 @@ BOPMaps is a music-meets-location app that lets users drop and discover songs pi
 - 🌈 Gamified layers: proximity auras, collectible skins
 
 **Purpose:** This is my final deliverable for the Human-Computer Interaction course at Colgate University. It showcases thoughtful interaction design, rapid prototyping, and meaningful user experience — merging sound, space, and memory.
+
+**Screenshots:**
+<img src="https://github.com/user-attachments/assets/9ff75045-ceea-4579-bdbe-164da552a26a" width="300" />
+<img src="https://github.com/user-attachments/assets/23f4e3ec-99ff-4997-8116-de443d94c966" width="300" />
+<img src="https://github.com/user-attachments/assets/1755f49c-31e6-4679-b8a2-2d609e7c6a27" width="300" />
+<img src="https://github.com/user-attachments/assets/f1a071d8-d398-4cb5-b81f-bbed520e0e7d" width="300" />
+<img src="https://github.com/user-attachments/assets/fa696439-eab4-4910-991e-f999bc800657" width="300" />
+<img src="https://github.com/user-attachments/assets/304a8c04-5f1d-455c-93c8-cfc849f8b633" width="300" />
+<img src="https://github.com/user-attachments/assets/b4aae04f-e816-48b9-b619-8bbe20880095" width="300" />
+<img src="https://github.com/user-attachments/assets/f91a58f8-de0d-4c07-873f-cde0ad090788" width="300" />
+
 
 ### 🍽️ Gusto - Culinary Experience Platform
 
