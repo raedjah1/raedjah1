@@ -29,6 +29,10 @@ Welcome to my GitHub profile! I'm a passionate software engineer and data scient
 POV Reality is an immersive virtual reality platform that transforms social interactions through cutting-edge VR technology. Our platform enables users to connect, explore, and create in ways never before possible, bridging the gap between physical distance and meaningful social experiences.
 
 ### 🎵 BOPMaps – Musical Geocaching App
+<p align="center">
+  <a href="https://github.com/raedjah1/BOPMapsBackend.git">GitHub Repository</a>
+</p>
+
 
 BOPMaps is a music-meets-location app that lets users drop and discover songs pinned to real-world places. It transforms everyday walks into audio adventures — each location becomes a memory, a vibe, a story told through music.
 
