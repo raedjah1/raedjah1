@@ -73,7 +73,7 @@ BOPMaps is a music-meets-location app that lets users drop and discover songs pi
 
 A platform designed to connect private chefs with consumers seeking personalized dining experiences. Gusto allows chefs to showcase their menus and specialties, while consumers can browse, book, and review chefs for private events, dinners, or cooking classes.
 
-**Team:** Jah, Victor, and Chris
+**Team:** Raed Jah
 
 **Technologies:**
 <p align="center">
