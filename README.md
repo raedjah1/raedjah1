@@ -48,7 +48,6 @@ BOPMaps is a music-meets-location app that lets users drop and discover songs pi
 - 🤝 Social features: friend system, collection history
 - 🌈 Gamified layers: proximity auras, collectible skins
 
-**Purpose:** This is my final deliverable for the Human-Computer Interaction course at Colgate University. It showcases thoughtful interaction design, rapid prototyping, and meaningful user experience — merging sound, space, and memory.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9ff75045-ceea-4579-bdbe-164da552a26a" width="150" alt="Screenshot 1" />
   <img src="https://github.com/user-attachments/assets/23f4e3ec-99ff-4997-8116-de443d94c966" width="150" alt="Screenshot 2" />
