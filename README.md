@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer and data scient
 
 ## 🚀 Featured Projects
 
-### 🥽 POV Reality
+### 🥽 POV Reality on APP STORE
 
 <p align="center">
   <a href="https://pov-reality.com">Website: pov-reality.com</a> • 
