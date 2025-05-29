@@ -57,10 +57,11 @@ BOPMaps is a music-meets-location app that lets users drop and discover songs pi
   <img src="https://github.com/user-attachments/assets/f1a071d8-d398-4cb5-b81f-bbed520e0e7d" width="150" />
 </p>
 
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fa696439-eab4-4910-991e-f999bc800657" width="150" />
   <img src="https://github.com/user-attachments/assets/304a8c04-5f1d-455c-93c8-cfc849f8b633" width="150" />
-  <img src="https://github.com/user-attachments/assets/b4aae04f-e816-48b9-b619-8bbe20880095" width="150" />
+  <img src="https://github.com/user-attachments/assets/0b3d5024-1caa-4289-8b15-b90990cc1b91" width="150" />
   <img src="https://github.com/user-attachments/assets/f91a58f8-de0d-4c07-873f-cde0ad090788" width="150" />
 </p>
 
