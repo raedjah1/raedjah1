@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer and data scient
 ## 👨‍💻 About Me
 
 - 👀 **Interests:** Software Engineering, Data Science, and innovative tech solutions
-- 🌱 **Current Learning:** Pursuing a Computer Science major at Colgate University
+- 🌱 **Education:** Honors in CS and Magna Cum Laude CS
 - 💞️ **Collaboration:** Open to collaborating on diverse software development projects
 - 📫 **Contact:** Reach me at [raedjah18@gmail.com](mailto:raedjah18@gmail.com) or [rjah@colgate.edu](mailto:rjah@colgate.edu)
 
@@ -38,7 +38,7 @@ POV Reality is an immersive virtual reality platform that transforms social inte
 BOPMaps is a music-meets-location app that lets users drop and discover songs pinned to real-world places. It transforms everyday walks into audio adventures — each location becomes a memory, a vibe, a story told through music.
 
 **Built With:**
-- **Frontend:** Flutter-based interactive map UI with pin drop, collection, and friend features
+- **Frontend:** REACT-based interactive map UI with pin drop, collection, and friend features
 - **Backend:** Django REST API handling user auth, pins, music metadata, and geolocation logic
 
 **Core Features:**
